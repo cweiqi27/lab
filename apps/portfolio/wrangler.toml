@@ -1,0 +1,11 @@
+name = "portfolio"
+compatibility_date = "2025-12-16"
+
+type = "javascript"
+
+[build]
+command = "pnpm build"
+upload = { format = "service-worker" }
+
+[assets]
+directory = "./dist"
