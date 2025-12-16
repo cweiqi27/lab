@@ -1,0 +1,10 @@
+{
+  "npmScope": "nx-monorepo",
+  "affected": {
+    "defaultBase": "main"
+  },
+  "workspaceLayout": {
+    "appsDir": "apps",
+    "libsDir": "packages"
+  }
+}
